@@ -191,6 +191,14 @@
             }
         },
         {
+            "Key": "c774c409-42f3-418b-90bd-6a9f059aaadf",
+            "Value": {
+                "id": "4c0920b8-e42c-4fad-b487-d5cd51bd7347",
+                "resourcePath": "sounds\\snd_death\\snd_death.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "cbf76431-2e5e-4db6-83bd-a532b4efaee6",
             "Value": {
                 "id": "5316af9e-d473-4869-abc9-42a5e409ee72",
